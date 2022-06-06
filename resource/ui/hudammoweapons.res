@@ -24,7 +24,7 @@
 		"fieldName"			"AmmoInClip"
 		"font"				"Montserrat56"
 		"fgcolor"			"Ammo In Clip"
-		"xpos"				"cs-0.5+82" //+82 for no real reason other than it lines up 2 clip size with 200 noclip
+		"xpos"				"c32" //+82 for no real reason other than it lines up 2 clip size with 200 noclip
 		"ypos"				"c70"
 		"zpos"				"5"
 		"wide"				"100"
@@ -93,7 +93,7 @@
 		"fieldName"			"AmmoNoClip"
 		"font"				"Montserrat56"
 		"fgcolor"			"Ammo In Clip"
-		"xpos"				"cs-0.5+150"
+		"xpos"				"c"
 		"ypos"				"c70"
 		"zpos"				"5"
 		"wide"				"300"
