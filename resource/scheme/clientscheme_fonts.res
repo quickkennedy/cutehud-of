@@ -912,6 +912,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"HudFontSmallestBlur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Volkswagen"
+				"tall"			"12"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
 		"HudFontSmallestShadow"
 		{
 			"1"
